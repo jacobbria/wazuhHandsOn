@@ -10,6 +10,8 @@ Enjoy!
  <div>🤖 Agent Deployment</div>
  <div>📜 Log Generation</div>
 
+ A basic run down is get Wazuh going and get logs a'rollin.
+
 <h1  align="center" >Tools</h1>
 <div  align="center">
  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/04513d2c-a2f3-49c1-8f15-9aae0045c6ef" />

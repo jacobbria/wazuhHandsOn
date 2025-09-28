@@ -9,7 +9,7 @@ Enjoy!
  <div>🖥️ Server Manager Deployment</div>
  <div>🤖 Agent Deployment</div>
  <div>📜 Log Generation</div>
-
+<br>
  A basic run down is get Wazuh going and get logs a'rollin.
 
 <h1  align="center" >Tools</h1>

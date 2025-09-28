@@ -6,12 +6,10 @@ Enjoy!
 
 
 <h1>Goals</h1>
-<table style="border:1 solid #ccc; border-radius:8; padding:15; background:#f9f9f9;">
-  <tr>
-    <td align="center">Manager Deployment</td>
-    <td align="center">Agent Deployment</td>
-    <td align="center">Log generation</td>
-  </tr>
-</table>
+ <div>🖥️ Server Manager Deployment</div>
+<div>🤖 Agent Deployment</div>
+<div>📜 Log Generation</div>
+
+
 
 </div>

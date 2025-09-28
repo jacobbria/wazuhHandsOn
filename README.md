@@ -18,3 +18,10 @@ Wazuh has a <a href="https://www.reddit.com/r/Wazuh/">good community</a> around 
 
 </div>
 
+<h1></h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jacobbria" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="vertical-align:middle" />
+     Let's connect on<strong>LinkedIn</strong>
+  </a>
+</p>

@@ -7,8 +7,8 @@ Enjoy!
 
 <h1>Goals</h1>
  <div>🖥️ Server Manager Deployment</div>
-<div>🤖 Agent Deployment</div>
-<div>📜 Log Generation</div>
+ <div>🤖 Agent Deployment</div>
+ <div>📜 Log Generation</div>
 
 <h1  align="center" >Tools</h1>
 <div  align="center">

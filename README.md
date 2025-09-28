@@ -8,8 +8,8 @@ Enjoy!
 <h1> Why Wazuh</h1>
 <img width="389" height="130" alt="image" src="https://github.com/user-attachments/assets/77276f6e-1a98-4748-b027-857ee76f43c6" />  
 <br>
-<a href="https://wazuh.com/">Wazuh</a> is an open source SIEM and XDR platform with <a href="https://wazuh.com/about-us/#:~:text=A%20world%2Dleading%20cybersecurity%20platform&text=Our%20platform%20has%20more%20than,rely%20on%20our%20solution%20daily.">millions of downloads</a>. Online searching lead me here as a good place
-to start learning how to protect endpoints for free. While my endgoal is to get certified in Splunk, and I have work experience managing end devices in MDMs, this will be different as I am setting up the architecture, enrolling devices, and getting into the gnitty gritty of a SIEM. 
+<a href="https://wazuh.com/">Wazuh</a> is an open source SIEM and XDR platform with <a href="https://wazuh.com/about-us/#:~:text=A%20world%2Dleading%20cybersecurity%20platform&text=Our%20platform%20has%20more%20than,rely%20on%20our%20solution%20daily.">millions of downloads</a>. Online research lead me here as a good place
+to start learning how to protect endpoints (for free!). Many essential security functions and reponseabilities are available under the Wazuh toolset. 
 
 <br>
 <br>

@@ -17,6 +17,7 @@ Enjoy!
  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/04513d2c-a2f3-49c1-8f15-9aae0045c6ef" />
  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/80329e2d-8d90-4dcc-bc88-5f7d3fb3e118" />
  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/193728b2-7cb3-4e93-bae5-e5ad91510854" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Logo" style="vertical-align:middle; width: 250px; height: 250px;" />
 </div>
 
 

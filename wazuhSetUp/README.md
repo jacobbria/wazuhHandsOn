@@ -2,6 +2,9 @@
 <h1> Wazuh Set-Up</h1>
 Hello! This sub-repo will contain documentation and write-ups as I set up the Wazuh SIEM. 
 <br>
+It serves to allow others to follow my steps and myself to refer back to when repeating similar processes.
+<br>
+ <br>
 Enjoy!
 
 

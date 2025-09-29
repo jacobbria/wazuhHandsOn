@@ -15,7 +15,7 @@ Enjoy!
 
 <br>
 <br>
-Wazuh has a <a href="https://www.reddit.com/r/Wazuh/">strong community</a> and well-written<a href="https://documentation.wazuh.com/current/index.html">documentation</a>. I will be using both community-posted solutions and official documentation to support this home lab. I will also try to cite whenever I implement an already solved solution.
+Wazuh has a <a href="https://www.reddit.com/r/Wazuh/">strong community</a> and well-written <a href="https://documentation.wazuh.com/current/index.html">documentation</a>. I will be using both community-posted solutions and official documentation to support this home lab. I will also try to cite whenever I implement an already solved solution.
 
 </div>
 

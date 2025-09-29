@@ -2,10 +2,17 @@
 However, I was having some issues related to getting the server installed on the Ubuntu VM. It took about 3-4 attempts 
 where I would install and recieve an error. Looking into the error logs wasn't too helpful but it was able to work after
 giving the VM about 20GB more disk space.
+
+
+
+
 <div align="center">
   
   ## Initial Set-up
-  
+
+ <img width="1137" height="318" alt="image" src="https://github.com/user-attachments/assets/0d3e14f2-c945-4898-88b5-974b1c9f5e8f" />
+<br>
+<br>
 <table>
   <tr>
     <td width="50%" valign="top">

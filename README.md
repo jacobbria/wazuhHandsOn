@@ -5,7 +5,7 @@
                                                                                                                                                                                                                       
 <h1> Hands On With Wazuh </h1>
 This is the central repo for all my hands-on experience with Wazuh SIEM. Each project should contain goals, documentation, and write-ups.
-<br>
+<br> <br>
 Enjoy!
 
 <h1> Why Wazuh</h1>

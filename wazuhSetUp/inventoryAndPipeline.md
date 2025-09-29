@@ -74,6 +74,9 @@ giving the VM about 20GB more disk space.
 &emsp;The main components used will be my Manager VM, Agent 1, and Kali instance. Agent 2 provides more experience dpeloying
 agents, more logs to sift through, and hosts my Kali VM. 
 
+<br>
+<br>
+
 &emsp;When doing this sort of project it helped to have DNS knowledge. VirtuaBox defaults its machines to using NAT - this 
 prevents bidirectional communication between host and VM. Instead, using a bridged adapter allows the VM to be treated
 as its own device and assigned an IP. After using some netstat tools to ping and tracert packets between my laptop

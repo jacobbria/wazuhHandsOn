@@ -7,49 +7,65 @@ giving the VM about 20GB more disk space.
   ## Initial Set-up
   
 <table>
-<tr>
-  <td>
-<div align="center">
-<h2>Wazuh Server </h2>
-</div>
-    
-| *Component*       | Specification |
-|-------------------|---------------|
-| *Operating System*| Ubuntu        |
-| *Disk (Storage)*  | 50 GB         |
-| *RAM*             | 8 GB          |
-| *Virtualization*  | VirtualBox    |
-  
+  <tr>
+    <td width="50%" valign="top">
+
+  <div align="center"><h2>Wazuh Server Manager</h2></div>
+
+  | *Component*       | Specification |
+  |-------------------|---------------|
+  | *Operating System*| Ubuntu        |
+  | *Disk (Storage)*  | 50 GB         |
+  | *RAM*             | 8 GB          |
+  | *Virtualization*  | VirtualBox    |
+  | *Logs*            | None          |
+
   </td>
-<td>
-  <div align="center">
-  <h2>Wazuh Agent 1</h2>
-  </div>
-  
+    <td width="50%" valign="top">
+
+  <div align="center"><h2>Wazuh Agent 1</h2></div>
+
   | *Component*       | Specification |
   |-------------------|---------------|
   | *Operating System*| Windows 11    |
   | *Disk (Storage)*  | 1 TB          |
   | *RAM*             | 16 GB         |
-  | *Virtualization*  | None    |
+  | *Virtualization*  | None          |
+  | *Logs*            | Snort, Sysmon |
 
   </td>
-  <td>
-  <div align="center">
-  <h2>Wazuh Agent 2</h2>
-  </div>
-  
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+  <div align="center"><h2>Wazuh Agent 2</h2></div>
+
   | *Component*       | Specification |
   |-------------------|---------------|
   | *Operating System*| Windows 11    |
   | *Disk (Storage)*  | 1 TB          |
   | *RAM*             | 16 GB         |
-  | *Virtualization*  | None    |
+  | *Virtualization*  | None          |
+  | *Logs*            | Windows Event Logs |
 
   </td>
-</tr>
+    <td width="50%" valign="top">
+
+  <div align="center"><h2>Kali Machine</h2></div>
+
+  | *Component*       | Specification |
+  |-------------------|---------------|
+  | *Operating System*| Kali Linux    |
+  | *Disk (Storage)*  | 500 GB        |
+  | *RAM*             | 4 GB          |
+  | *Virtualization*  | VirtualBox    |
+  | *Logs*            | None          |
+
+  </td>
+  </tr>
 </table>
-</div> 
+
+
 
 &emsp;The agent installation went great. Wazuh provides an easy process. I did have to did into the ossec config files 
 to ensure my agent knew where to point. I was using different networks during this process so the machines were assigned 

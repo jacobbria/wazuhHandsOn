@@ -13,7 +13,11 @@ Enjoy!
  <div>🤖 Agent Deployment</div>
  <div>📜 Log Generation</div>
 <br>
- A basic run down is get Wazuh going and get logs a'rollin.
+ A basic run down is get Wazuh going and get logs a'rollin
+
+<h1>Directory</h1>
+<a href="https://github.com/jacobbria/wazuhHandsOn/blob/main/wazuhSetUp/inventoryAndPipeline.md">Systems Invetory and Overview</a>
+
 
 <h1  align="center" >Tools</h1>
 <div  align="center">

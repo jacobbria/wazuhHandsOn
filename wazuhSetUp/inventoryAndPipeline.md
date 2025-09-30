@@ -9,7 +9,8 @@ giving the VM about 20GB more disk space.
 <div align="center">
   
   ## Initial Set-up
-
+  
+ <img width="792" height="578" alt="image" src="https://github.com/user-attachments/assets/f46b4a07-968f-428a-a99b-a43b1a304104" />
  <img width="1137" height="318" alt="image" src="https://github.com/user-attachments/assets/0d3e14f2-c945-4898-88b5-974b1c9f5e8f" />
 <br>
 <br>

@@ -18,6 +18,7 @@ Enjoy!
 <h1>Directory</h1>
 <a href="https://github.com/jacobbria/wazuhHandsOn/blob/main/wazuhSetUp/inventoryAndPipeline.md">Systems Invetory and Overview</a> <br>
 <a href="https://github.com/jacobbria/wazuhHandsOn/blob/main/relatedServices/snortSetUp.md">Snort Set-up</a>
+<a href="https://github.com/jacobbria/wazuhHandsOn/blob/main/wazuhSetUp/logGenerationAndDetection.md">Generating Logs</a>
 
 
 <h1  align="center" >Tools</h1>
